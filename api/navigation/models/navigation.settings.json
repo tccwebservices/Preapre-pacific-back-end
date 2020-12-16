@@ -2,7 +2,7 @@
   "kind": "collectionType",
   "collectionName": "navigations",
   "info": {
-    "name": "navigation"
+    "name": "Navigation"
   },
   "options": {
     "increments": true,
