@@ -36,6 +36,11 @@
     },
     "slug": {
       "type": "string"
+    },
+    "field": {
+      "type": "component",
+      "repeatable": true,
+      "component": "global.field"
     }
   }
 }

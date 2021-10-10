@@ -1,0 +1,13 @@
+{
+  "collectionName": "fields",
+  "info": {
+    "name": "field",
+    "icon": "ad"
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    }
+  }
+}
