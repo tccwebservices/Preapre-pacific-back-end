@@ -2,7 +2,7 @@
   "kind": "collectionType",
   "collectionName": "resources",
   "info": {
-    "name": "Resources",
+    "name": "page-info",
     "description": ""
   },
   "options": {
@@ -11,36 +11,10 @@
     "draftAndPublish": true
   },
   "attributes": {
-    "Title1": {
-      "type": "string"
-    },
-    "List1": {
-      "type": "enumeration",
-      "enum": [
-        "item1",
-        "item2",
-        "item3"
-      ]
-    },
-    "MajorTitle": {
-      "type": "string"
-    },
-    "catergorytitle": {
-      "type": "string"
-    },
-    "catergorytitle2": {
-      "type": "string"
-    },
-    "catergorytitle3": {
-      "type": "string"
-    },
-    "slug": {
-      "type": "string"
-    },
-    "field": {
+    "Page": {
       "type": "component",
       "repeatable": true,
-      "component": "global.field"
+      "component": "global.section"
     }
   }
 }

@@ -1,0 +1,29 @@
+{
+  "collectionName": "components_global_sections",
+  "info": {
+    "name": "Section",
+    "icon": "address-card",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "component",
+      "repeatable": true,
+      "component": "global.title"
+    },
+    "Field": {
+      "type": "component",
+      "repeatable": true,
+      "component": "global.field"
+    },
+    "Button": {
+      "type": "component",
+      "repeatable": false,
+      "component": "global.button"
+    },
+    "PageTitle": {
+      "type": "string"
+    }
+  }
+}

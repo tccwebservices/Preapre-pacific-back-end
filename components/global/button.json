@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_global_button_s",
+  "info": {
+    "name": "Button ",
+    "icon": "adjust",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "href": {
+      "type": "string"
+    }
+  }
+}
