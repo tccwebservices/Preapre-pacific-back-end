@@ -1,8 +1,8 @@
 {
-  "kind": "collectionType",
+  "kind": "singleType",
   "collectionName": "resources",
   "info": {
-    "name": "page-info",
+    "name": "Resources",
     "description": ""
   },
   "options": {
@@ -11,7 +11,7 @@
     "draftAndPublish": true
   },
   "attributes": {
-    "Page": {
+    "ResourcePage": {
       "type": "component",
       "repeatable": true,
       "component": "global.section"

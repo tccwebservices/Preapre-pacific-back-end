@@ -24,6 +24,9 @@
     },
     "PageTitle": {
       "type": "string"
+    },
+    "Slug": {
+      "type": "string"
     }
   }
 }
