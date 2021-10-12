@@ -1,16 +1,16 @@
 {
-  "collectionName": "components_global_button_s",
+  "collectionName": "components_shared_titles",
   "info": {
-    "name": "Button ",
-    "icon": "adjust",
+    "name": "title",
+    "icon": "ad",
     "description": ""
   },
   "options": {},
   "attributes": {
-    "Title": {
+    "title": {
       "type": "string"
     },
-    "href": {
+    "subTitle": {
       "type": "string"
     }
   }
